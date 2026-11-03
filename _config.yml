@@ -1,7 +1,17 @@
 remote_theme: yaoyao-liu/minimal-light
+
 title: Xiao Huan
 position: Beckman Institute Postdoctoral Fellow
 affiliation: University of Illinois Urbana-Champaign
 email: xiaohuan@illinois.edu
 google_scholar: https://scholar.google.com/citations?user=Y4oj3OgAAAAJ
 canonical: https://xhuan07.github.io/
+
+# Optional. Uncomment after adding the files or links.
+# avatar: ./assets/img/avatar.jpg
+# cv_link: ./assets/Xiao_Huan_CV.pdf
+# github_link: https://github.com/xhuan07
+# linkedin: https://www.linkedin.com/in/your-id
+
+plugins:
+  - jekyll-remote-theme
