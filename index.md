@@ -1,4 +1,8 @@
-# Xiao Huan
+---
+layout: homepage
+---
+
+## About Me
 
 Beckman Institute Postdoctoral Fellow  
 University of Illinois Urbana-Champaign
