@@ -82,14 +82,6 @@ Advisor: Prof. Jingyan Dong
 
 5. Kim N.†, **Huan X.**†, Yang U., Kim J.T.\*, Je J.H.\* Vapor Mapping in a Microscopic Space with a Scanning Nanoprobe Interferometer. The Journal of Physical Chemistry C, 125, 24137–24144 (2021). (co-first author)
 
-6. **Huan X.**, Kamble Y., Marrero I.A.R., Shi J., Lomas A., Vo J. N., Jeon S., Guironnet D., Rogers S.\*, Diao Y.\* Three-Dimensional Printing of Bottlebrush Block Copolymer for Structural Color. Proceedings of the National Academy of Sciences of the United States of America, Under Revision.
-
-7. **Huan X.**, Vo J. N., Shi J., Rogers S.\*, Guironnet D.\*, Diao Y.\* Omnidirectional Printing of Bottlebrush Block Copolymers for Programmable Structural Color. In Preparation.
-
-8. **Huan X.**, Yang Z., Stephenson W., Lomas A., Prasad C. K., Mao X., Kotov N., Diao Y.\* AI-Driven Automated Printing for Programmable Crack Morphology and Tunable Electromechanical Performance in Conjugated Polymer Films. In Preparation.
-
-9. Shim Y.†, **Huan X.**†\*, Jeong S., Diao Y.\* Ultrasonic-Driven Printing Enables Conducting Micropatterns in OEG- Functionalized Conjugated Polymer Films. In Preparation. (co-first author, co-corresponding author)
-
 ### Other Publications
 
 10. Shi J., Kamble Y., **Huan X.**, Diao Y.\*, Guironnet D.\*, Rogers S.\* Transient structure-property-processing relations of yield-stress bottlebrush block copolymer. Submitted.
