@@ -28,8 +28,6 @@ I received my Ph.D. in Mechanical Engineering from The University of Hong Kong i
 
 († equal contribution, \* corresponding author. Full list on [Google Scholar](https://scholar.google.com/citations?user=Y4oj3OgAAAAJ).)
 
-- **Huan X.**, Kamble Y., Marrero I.A.R., Shi J., Lomas A., Vo J.N., Jeon S., Guironnet D., Rogers S.\*, Diao Y.\* Vertical direct ink write of bottlebrush block copolymers for structural color with dynamic control. *Proceedings of the National Academy of Sciences*, under revision.
-
 - **Huan X.**†, Kim J.†, Park Y., Hu S., Yang J., Huang N., Chen F., Liu Y., Cao S., Wang Z., Shum H.C., Chan B.P., Shin D., Kim J.T.\* Programming actuation in 3D-printed micro-architectures via interfacial adhesion control. *Advanced Materials Technologies*, accepted.
 
 - Shim Y.†, **Huan X.**†\*, Diao Y.\* Recent advances in printing technologies for conjugated polymer-based electronic devices. *Chinese Journal of Chemical Engineering* 97, 143–157 (2026).
