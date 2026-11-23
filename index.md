@@ -166,7 +166,7 @@ The University of Hong Kong, Hong Kong SAR
 ### Professional Service
 
 - Judge, ACS POLY/PMSE Symposium, University of Illinois Urbana-Champaign, 2026
-- Journal reviewer, *Nature Materials* and *Nature Communications*
+- Journal reviewer, *Nature Materials*, *Nature Chemistry*, *Nature Communications*
 
 ### Institutional Service
 
